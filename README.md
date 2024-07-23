@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kormix company app.**
 
-- 💬 Ask me about **c++, c# and Kotlin**
+- 💬 Ask me about **.NET/C# **
 
 - 📫 How to reach me **korczjakub@gmail.com**
 
