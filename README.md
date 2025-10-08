@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub Korcz</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
 
-- 🔭 I’m currently working on **Kormix company app.**
-
 - 💬 Ask me about **.NET/C# **
 
 - 📫 How to reach me **korczjakub@gmail.com**
